@@ -1,0 +1,24 @@
+Surname: [Your Surname]
+Name: [Your First Name]
+Email address: [Your ChatGPT Email]
+GitHub username: [Your GitHub Username]
+GitHub repository URL: [Your Open Source Repository URL]
+
+Describe your role: Are you a primary maintainer or a core maintainer?
+I am a primary maintainer. I am responsible for guiding the project's technical direction, reviewing pull requests, triaging and responding to issues, and managing releases.
+
+Why does this code repository meet the requirements?
+This project is an essential piece of infrastructure in the ecosystem, heavily relied upon by developers. With over [Insert Number] stars and [Insert Number] monthly downloads, it plays a critical role in [Briefly describe the project's purpose]. Maintaining its stability and security is paramount to the many downstream applications that depend on it.
+
+What interests me is:
+- 6-month subscription to ChatGPT Pro (including Codex)
+- Conditional access permissions for Codex Security
+- API quota for coding, maintaining automation, deploying workflows, and core open-source work
+
+OpenAI Organization ID: [Your OpenAI Org ID]
+
+How will you use API quotas for your project?
+I plan to integrate the API into our CI/CD pipelines to automate issue triaging, provide initial code reviews for pull requests, and assist with generating release notes and documentation. This automation will significantly reduce the manual review burden on maintainers, freeing us up to focus on complex architectural decisions and security audits.
+
+Is there anything else that needs to be explained?
+As our project has grown in popularity, the volume of community contributions and issues has scaled beyond what our small team can manually manage. Access to these AI tools would be a game-changer, helping us maintain high code quality and responsive community support while preventing maintainer burnout.
